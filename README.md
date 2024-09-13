@@ -1,2 +1,3 @@
-# qianxiang1106.github.io
-My Github Pages
+# qianxiangw.github.io
+> My Github Pages
+> 千想的个人博客
