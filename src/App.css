@@ -1,0 +1,36 @@
+.home-container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.header-h1 {
+  font-size: 40px;
+  font-family: serif;
+  font-weight: 800;
+  text-decoration: none; /* 去掉下划线 */
+  color: inherit;        /* 保持文字颜色和继承的颜色一致 */
+  display: block;        /* 让整个 Post 可以点击 */
+}
+
+.header-h1:hover{
+  color: #6B25FF;
+}
+
+.header-img {
+  width: 58px; /* 设置图片宽度 */
+  height: 58px; /* 设置图片高度 */
+  border-radius: 15%; /* 添加圆角效果 */
+}
+
+.header-img:hover {
+  box-shadow: 0 0 5px rgba(107, 37, 255, 0.3);
+}

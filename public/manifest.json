@@ -1,0 +1,9 @@
+{
+  "short_name": "千想",
+  "name": "千想的个人博客",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
